@@ -1,0 +1,5 @@
+@model List<Person> 
+    @foreach(var item in Model)
+    {
+        <p>@String.Format($"{@item.LastName} {@item.FirstName} - {@item.Gender} - {@item.Age} - {@item.DateOfBirth}")</p>
+    }

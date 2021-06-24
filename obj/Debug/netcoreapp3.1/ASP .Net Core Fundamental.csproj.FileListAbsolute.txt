@@ -1,0 +1,44 @@
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\ASP .Net Core Fundamental.exe
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\ASP .Net Core Fundamental.deps.json
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\ASP .Net Core Fundamental.runtimeconfig.json
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\ASP .Net Core Fundamental.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\ASP .Net Core Fundamental.dll
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\ASP .Net Core Fundamental.pdb
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\ASP .Net Core Fundamental.Views.dll
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\ASP .Net Core Fundamental.Views.pdb
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.TagHelpers.input.cache
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.TagHelpers.output.cache
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.RazorCoreGenerate.cache
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.Views.pdb
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\staticwebassets\ASP .Net Core Fundamental.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\staticwebassets\ASP .Net Core Fundamental.StaticWebAssets.xml
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.dll
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.pdb
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\ASP .Net Core Fundamental.csproj.CopyComplete
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\ViewGetOldestPerson.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\ViewGetPersonByGender.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\ViewGetFullNamePerson.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\ViewGetPersonEqualsYear.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\ViewGetPersonGreaterThanYear.cshtml.g.cs
+C:\Users\LENOVO\Documents\ASP .Net Core Fundamental\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\ViewGetPersonLessThanYear.cshtml.g.cs
